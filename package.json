@@ -1,0 +1,20 @@
+{
+  "name": "insta-images",
+  "version": "1.0.0",
+  "description": "a simple app using instagram",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "author": "Michael Liendo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
