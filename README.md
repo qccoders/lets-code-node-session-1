@@ -5,7 +5,7 @@ This project was showcased for a "Let's Code" series where members of the Meetup
 
 ### Running the app
 This process is broken down into 3 easy steps once the app is cloned on to your machine
-*This project assumes you have [node_v6 installed] (https://nodejs.org/en/)*
+*This project assumes you have [node_v6 installed](https://nodejs.org/en/)*
 1. From the command line, inside of the project directory, run the following command:
 ```javascript
 $ npm install
