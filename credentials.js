@@ -3,6 +3,6 @@
 //Please create your own at instagram.com/developer
 module.exports = {
   CLIENT_ID:'82d957a8aace4d6ea06105d11838a79a',
-  CLIENT_SECRET:'12431416c2fa446182e0b630e049bf8d',
+  CLIENT_SECRET:'b813890e7964437bbdcf102f86f9111c',
   REDIRECT_URI:'http://localhost:3000/callback'
 }
